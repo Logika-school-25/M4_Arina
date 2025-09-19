@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray; 
+}
+
+.white_container {
+    background-color: white;
+    padding: 15px;
+}
+
+.apteka_logo {
+    width: 90%;
+    /* margin:  23 auto; */
+    padding-left: 5%;
+}
+.navigation {
+    text-align: center;
+}
+
+nav {
+    background-color: #B5F0BC;
+    padding:  28px; 
+}
+
+.nav-link {
+    padding-left: 45px;
+    text-decoration: none;
+    font-size: 24px;
+    color: #006747;
+}
+
+.nav-link:hover {
+    color: aliceblue;
+
+}
+
+.nav-link:visited{
+    color: #f3fbf8;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #006747;
+    font-size: 54px;
+    font-weight: 700;
+    padding: 25px;
+
+}
+
+.logo-media {
+    text-align: right;
+    padding-left: 50%;
+    
+}
+.logo-media >img {
+    padding-right: 15px;
+}
+
+.text {
+    font-size: 24px;
+    margin-top: 25px;
+}
+p {
+    font-size: 20px;
+    padding: 15px;
+}
+
+
+h3 {
+    text-align: center;
+}
